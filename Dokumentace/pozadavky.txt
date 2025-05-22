@@ -1,0 +1,23 @@
+Funkční požadavky
+1. Správa uživatelských účtů – Registrace, přihlášení, správa profilu.
+2. Vyhledávání dortů – Možnost filtrovat a vyhledávat podle typu, příchutě, dekorací nebo klíčových slov.
+3. Konfigurátor dortů – Výběr typu, příchutě, dekorací a dalších možností.
+4. Objednávkový systém – Umožní zadání a sledování objednávek.
+5. Platební brána – Možnost online platby (kartou, Apple Pay, Google Pay).
+6. Doručovací možnosti – Výběr času a adresy doručení kurýrem.
+7. Sledování doručení – Možnost sledovat stav doručení dortu v reálném čase.
+8. Správa objednávek – Přehled a historie nákupů pro zákazníky.
+9. Recenze a hodnocení – Uživatelé mohou hodnotit a komentovat dorty.
+10. Notifikace – E-mailové / push zprávy o stavu objednávky.
+11. Admin panel – Správa produktů, uživatelů a objednávek.
+
+Nefunkční požadavky
+1. Rychlost načítání – Stránka by se měla načíst do 2 sekund.
+2. Responzivita – Web musí správně fungovat na mobilech, tabletech i PC.
+3. Bezpečnost – Ochrana dat, šifrování hesel, bezpečné platby.
+4. Dostupnost – Web musí běžet alespoň 99,9 % času bez výpadků.
+5. Škálovatelnost – Systém musí zvládnout rostoucí počet uživatelů a objednávek.
+6. SEO optimalizace – Stránka by měla být dobře indexovaná pro vyhledávače.
+7. Modularita kódu – Dobře strukturovaný a snadno rozšiřitelný kód.
+8. Kompatibilita – Systém musí správně fungovat v prohlížečích Edge, Opera, Firefox, Safari a Chrome na iOS a Androidu.
+9. Rychlé vyhledávání – Výsledky vyhledávání dortů podle typu, příchutě, dekorací nebo klíčových slov by měly být zobrazeny do 3 sekund.
